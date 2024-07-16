@@ -1,0 +1,9 @@
+.logout-logo {
+  width: 30px; /* Adjust the size as needed */
+  height: 30px; /* Adjust the size as needed */
+}
+#logout:hover{
+    
+  cursor: pointer;
+}
+

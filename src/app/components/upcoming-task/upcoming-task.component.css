@@ -1,0 +1,12 @@
+.upcoming-task-container {
+  position: absolute;
+  top: 439px;
+  right: 30px;
+  width: 550px;
+  background-color: rgb(235, 245, 255); /* This color is customized to match the original */
+}
+
+.list-group-item {
+  background-color: #f8f9fa;
+  border-color: #ced4da;
+}
